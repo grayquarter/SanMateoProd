@@ -1,0 +1,2 @@
+updateFee("BLDGRESACC02","BLDG_RES_ACC","FINAL",1,"Y");
+updateFee("BLDGRESACC04","BLDG_RES_ACC","FINAL",1,"Y");
